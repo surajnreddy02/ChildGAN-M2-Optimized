@@ -1,0 +1,38 @@
+# Dataset files (too large for git)
+*.zip
+MRCD_Asian_Black_White_Dataset/
+MRCD_organized/
+MRCD_childgan_format/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Training outputs
+training_output/
+test_output/
+"Path of Output"/
+
+# Model files
+*.pth
+*.pt
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/
+fixed_noise.p
